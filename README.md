@@ -32,9 +32,11 @@
 
 ## 💻 Projects  
 
-###[Student -Management -System (Ayushnik2027/Student-management-system 2 )
-📌 Full-stack app for online student management system: lectures, quizzes, progress tracking, and more.  
 
+### [Student-Management_System](https://github.com/Ayushnik2027/Student-Management System)  
+![Mern](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![Web Development](https://img.shields.io/badge/Web%20Development-FF4500?style=flat-square&logo=html5&logoColor=white)  
+📌 Full-stack app for online education: Attendence, fees, results, and more
 
 
 ### [E-LEARNING-PROJECT](https://github.com/Ayushnik2027/E-LEARNING-PROJECT)  
